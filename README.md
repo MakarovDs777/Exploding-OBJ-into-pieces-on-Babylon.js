@@ -16,6 +16,6 @@
 
 [Exploding OBJ into pieces on Babylon.js(Version 3-Divide OBJ into random sliced pieces of objects,and put them in a row) | Babylon.js Playground](https://playground.babylonjs.com/#P2X2AN)
 
-Но плсокости должны быть ровными а не повернутыми случайно.
+Но плосокости должны быть ровными а не повернутыми случайно.
 
 [Exploding OBJ into pieces on Babylon.js(Version 4-Cut the OBJ model into uniform planes along the contours of the plane) | Babylon.js Playground](https://playground.babylonjs.com/#L6UKT3)
